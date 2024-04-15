@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/insta-app/static/js/main.b0641e12.js",
+    "index.html": "/insta-app/index.html",
+    "main.b0641e12.js.map": "/insta-app/static/js/main.b0641e12.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b0641e12.js"
+  ]
+}
